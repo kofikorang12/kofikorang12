@@ -4,6 +4,7 @@
 **kofikorang12/kofikorang12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on ... software engineering
 - 🌱 I’m currently learning ... software engineering 
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... jbaah69@gmail.com
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...
--->
+
