@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ... software engineering 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... Fullstack development
-- 💬 Ask me about ... HTML, CSS, JAVASCRIPT, PYTHON, NODEJS, MONGODB
+- 💬 Ask me about ... HTML, CSS, JAVASCRIPT, REACT, NODEJS, MONGODB
 - 📫 How to reach me: ... jbaah69@gmail.com
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...
